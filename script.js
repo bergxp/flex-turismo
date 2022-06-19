@@ -62,6 +62,7 @@ function keyPush (event){
     case 37: //left
     vx = -vel;
     vy = 0;
+
     break;
     case 38: //up
     vx =0;
@@ -77,6 +78,7 @@ function keyPush (event){
           break;
     
   }
+
 }
 
 
